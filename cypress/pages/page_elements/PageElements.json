@@ -1,0 +1,8 @@
+{
+    "MakparURL":"https://www.makpar.com/",
+    "HomePage":{
+
+        "WhatWeDo":"#block-63486b591821d79aa44a5635 > .sqs-block-content > .sqs-html-content > :nth-child(2)",
+        "MakparInnovationLab":"#block-c2ee5c2123c88155e591 > .sqs-block-content > .sqs-html-content > h2"
+    }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Home Page Validations",
+    "line": 1,
+    "id": "home-page-validations",
+    "tags": [],
+    "uri": "HomePage.feature",
+    "elements": [
+      {
+        "id": "home-page-validations;demo",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "demo",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user on the Makpar App",
+            "result": {
+              "status": "passed",
+              "duration": 3662000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Validate Home page title \"Makpar: Federal IT Modernization\"",
+            "result": {
+              "status": "passed",
+              "duration": 13000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Validate What We Do exists \"What We Do\"",
+            "result": {
+              "status": "passed",
+              "duration": 18000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Validate innovation lab exists",
+            "result": {
+              "status": "passed",
+              "duration": 13000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
