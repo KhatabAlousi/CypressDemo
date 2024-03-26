@@ -4,5 +4,39 @@
 
         "WhatWeDo":"#block-63486b591821d79aa44a5635 > .sqs-block-content > .sqs-html-content > :nth-child(2)",
         "MakparInnovationLab":"#block-c2ee5c2123c88155e591 > .sqs-block-content > .sqs-html-content > h2"
+    },
+
+    "ContactUsPage":{
+
+        "ContactUsIcon": ".header-display-desktop > .header-actions > .header-actions-action--cta > .btn",
+        "Email": ".image-subtitle > :nth-child(1)",
+        "privicyPolicy":".accordion-item__title",
+        "privicyPoliclyLastUpdate":"em",
+        "InterpretationAndDefinitions":":nth-child(4) > strong",
+        "TypesOfDataCollected":":nth-child(21) > strong",
+        "NecessaryEssentialCookies":":nth-child(39) > strong",
+        "UseOfYourPersonalData": ":nth-child(52) > strong",
+        "TransferOfYourPersonalData":":nth-child(72) > strong",
+        "DisclosureOfYourPersonalData" :":nth-child(76) > strong",
+        "Services":"#block-yui_3_17_2_1_1598465110486_31748 > .sqs-block-content > .sqs-html-content > p > strong",
+        "Certifications":"#block-233e034c4148efe0fcaf > .sqs-block-content > .sqs-html-content > p > strong"
+
+    },
+
+    "WhitePaperPage":{
+        "Insights" : ".header-display-desktop > .header-title-nav-wrapper > .header-nav > .header-nav-wrapper > .header-nav-list > :nth-child(5) > .header-nav-folder-title",
+        "WhitePaper": "body > div:nth-child(1) > header:nth-child(2) > div:nth-child(2) > div:nth-child(5) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > nav:nth-child(1) > div:nth-child(5) > div:nth-child(2) > div:nth-child(3) > a:nth-child(1) > span:nth-child(1)",
+        "InResponseToSolarWinds":"#yui_3_17_2_1_1711022772449_69 > [data-test='image-block-v2-outer-wrapper'] > .image-card-wrapper > .image-card > .image-title-wrapper > .image-title",
+        "DownloadWhitPaper": ".sqs-button-element--primary[href='https://static1.squarespace.com/static/5f15fab5fd73757ac7d6a1b6/t/6011c046ba5ac67a3a724943/1611776070839/Makpar_White+Paper_Cybersecurity+Basics+%28SolarWinds%29_January+2021.pdf']",
+        "IndustryInsight": "figure[id='yui_3_17_2_1_1711021713408_83'] h4",
+        "ReadNow":"body > div:nth-child(1) > main:nth-child(3) > article:nth-child(1) > section:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > figure:nth-child(1) > figcaption:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1)"
+    }, 
+    "InnovationLabPage":{
+        "Insights" : ".header-display-desktop > .header-title-nav-wrapper > .header-nav > .header-nav-wrapper > .header-nav-list > :nth-child(5) > .header-nav-folder-title",
+        "Innovationab":"body > div:nth-child(1) > header:nth-child(2) > div:nth-child(2) > div:nth-child(5) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > nav:nth-child(1) > div:nth-child(5) > div:nth-child(2) > div:nth-child(4) > a:nth-child(1) > span:nth-child(1)",
+        "ReadCaseStudy": ".sqs-button-element--primary[href='https://www.makpar.com/dashboard-development-case-study']",
+        "FiningBigData":"div[id='block-2ded1f52389e771a585f'] h3",
+        "DataDriven":"div[id='block-99b89fb6ddc691607054'] h3",
+        "MeetTheTeam":"div[id='page-section-62867090514b5f218d020f8e'] h2:nth-child(1)"
     }
 }

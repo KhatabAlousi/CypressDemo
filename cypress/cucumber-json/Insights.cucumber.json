@@ -1,0 +1,152 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Insights Validations",
+    "line": 1,
+    "id": "insights-validations",
+    "tags": [],
+    "uri": "Insights.feature",
+    "elements": [
+      {
+        "id": "insights-validations;white-paper",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "White Paper",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user on the Makpar App",
+            "result": {
+              "status": "passed",
+              "duration": 3402000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "user hovers over Insights clicks on White Papers",
+            "result": {
+              "status": "passed",
+              "duration": 1845000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "Validate Home page title \"White Papers — Makpar\"",
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "user validates Download White paper button exists",
+            "result": {
+              "status": "passed",
+              "duration": 28000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "user validate read now button exists",
+            "result": {
+              "status": "passed",
+              "duration": 24000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "insights-validations;innovation-lab",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Innovation lab",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "user on the Makpar App",
+            "result": {
+              "status": "passed",
+              "duration": 1705000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "user hovers over Insights and clicks on Innovation lab",
+            "result": {
+              "status": "passed",
+              "duration": 1636000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "Validate Home page title \"Innovation Lab — Makpar\"",
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "user validates read case study button exists",
+            "result": {
+              "status": "passed",
+              "duration": 23000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "user validate Finding Big Data Solutions",
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "user validate Data-Driven Decision Making",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "user validate Meet the Team",
+            "result": {
+              "status": "passed",
+              "duration": 15000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -22,7 +22,7 @@
             "name": "user on the Makpar App",
             "result": {
               "status": "passed",
-              "duration": 3662000000
+              "duration": 2453000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "Validate Home page title \"Makpar: Federal IT Modernization\"",
             "result": {
               "status": "passed",
-              "duration": 13000000
+              "duration": 14000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "Validate What We Do exists \"What We Do\"",
             "result": {
               "status": "passed",
-              "duration": 18000000
+              "duration": 19000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "Validate innovation lab exists",
             "result": {
               "status": "passed",
-              "duration": 13000000
+              "duration": 11000000
             }
           }
         ]
